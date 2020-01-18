@@ -1,4 +1,5 @@
 # MyyOS
+The files are too many and/or too large to upload to github on raw format so instead uploaded zipped.
 The OS is referenced from tutorials and different documents across the internet that I followed to study Operating system and computer system engineering.
 I am very reluctant to change a lot of the modules and functions from the widely and commonly used ones (unless I've researched enough) as I didn't want the code to have any unwanted or unprecedented effects on the hardware.
 On this public repository, the commercial version, the variable names, module names, modules used from libraries, data flows and structures are commonly known ones as I don't want experimental codes to be running on and harming machines.
